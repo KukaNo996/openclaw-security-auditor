@@ -74,13 +74,13 @@ qclaw-security-auditor/
 
    **Windows (PowerShell)**：
    ```powershell
-   git clone https://github.com/KukaNo996/qclaw-security-auditor.git `
+   git clone https://github.com/KukaNo996/openclaw-security-auditor.git `
      "$env:USERPROFILE\.qclaw\skills\qclaw-security-auditor"
    ```
 
    **macOS / Linux**：
    ```bash
-   git clone https://github.com/KukaNo996/qclaw-security-auditor.git \
+   git clone https://github.com/KukaNo996/openclaw-security-auditor.git \
      ~/.qclaw/skills/qclaw-security-auditor
    ```
 
@@ -88,9 +88,9 @@ qclaw-security-auditor/
 
 ### 手动安装
 
-将整个 `qclaw-security-auditor` 文件夹复制到：
-- **Windows**：`C:\Users\<用户名>\.qclaw\skills\`
-- **macOS/Linux**：`~/.qclaw/skills/`
+将整个 `openclaw-security-auditor` 文件夹复制到：
+- **Windows**：`C:\Users\<用户名>\.openclaw\skills\`
+- **macOS/Linux**：`~/.openclaw/skills/`
 
 ## 📖 使用说明
 
@@ -236,8 +236,8 @@ USER_SENSITIVE_PATTERNS = [
 
 ```bash
 # 克隆仓库
-git clone https://github.com/KukaNo996/qclaw-security-auditor.git
-cd qclaw-security-auditor
+git clone https://github.com/KukaNo996/openclaw-security-auditor.git
+cd openclaw-security-auditor
 
 # 测试 Python 风险评估工具
 python scripts/risk_assessor.py path "/etc/passwd"
