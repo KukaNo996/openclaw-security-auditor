@@ -74,13 +74,13 @@ qclaw-security-auditor/
 
    **Windows (PowerShell)**：
    ```powershell
-   git clone https://github.com/YOUR_USERNAME/qclaw-security-auditor.git `
+   git clone https://github.com/KukaNo996/qclaw-security-auditor.git `
      "$env:USERPROFILE\.qclaw\skills\qclaw-security-auditor"
    ```
 
    **macOS / Linux**：
    ```bash
-   git clone https://github.com/YOUR_USERNAME/qclaw-security-auditor.git \
+   git clone https://github.com/KukaNo996/qclaw-security-auditor.git \
      ~/.qclaw/skills/qclaw-security-auditor
    ```
 
@@ -236,7 +236,7 @@ USER_SENSITIVE_PATTERNS = [
 
 ```bash
 # 克隆仓库
-git clone https://github.com/YOUR_USERNAME/qclaw-security-auditor.git
+git clone https://github.com/KukaNo996/qclaw-security-auditor.git
 cd qclaw-security-auditor
 
 # 测试 Python 风险评估工具
