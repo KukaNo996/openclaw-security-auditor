@@ -7,7 +7,7 @@
 
 ## 🎯 项目简介
 
-QClaw 安全审计器是一个 OpenClaw AgentSkill，它在任何工具被调用**之前**执行安全检查。与传统的事后告警不同，本技能在源头拦截危险操作，要么自动阻止，要么要求用户明确确认。
+OpenClaw 安全审计器是一个 OpenClaw AgentSkill，它在任何工具被调用**之前**执行安全检查。与传统的事后告警不同，本技能在源头拦截危险操作，要么自动阻止，要么要求用户明确确认。
 
 ### 核心特性
 
@@ -55,7 +55,7 @@ QClaw 安全审计器是一个 OpenClaw AgentSkill，它在任何工具被调用
 ## 📁 文件结构
 
 ```
-qclaw-security-auditor/
+openclaw-security-auditor/
 ├── SKILL.md                          # 主技能定义文件（必需）
 ├── README.md                         # 本文件
 ├── LICENSE                           # MIT 开源许可
