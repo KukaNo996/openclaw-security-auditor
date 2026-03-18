@@ -1,4 +1,4 @@
-# QClaw 安全审计器 🛡️
+# OpenClaw 安全审计器 🛡️
 
 [![OpenClaw Skill](https://img.shields.io/badge/OpenClaw-Skill-blue)](https://openclaw.ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
